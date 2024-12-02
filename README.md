@@ -1,2 +1,5 @@
 # github-noti-bot
-github noti by discord
+please read me
+this is notifacion alarm by discord
+dont use in the hack, terror.
+copyright 2024 ~ 2024 youdori
